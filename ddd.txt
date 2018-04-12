@@ -1,0 +1,37 @@
+﻿我:
+http://blog.jobbole.com/78960/
+我:
+http://www.ituring.com.cn/article/56870
+我:
+http://www.cnblogs.com/cspku/articles/Git_cmds.html 
+
+我:
+http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html
+
+
+我:
+http://www.ruanyifeng.com/blog/2015/12/git-workflow.html
+
+
+
+为什么要在APPcomponent里面除了inject方法之外，还有其他的方法
+resetpresenter中4个形参的构造方法怎么传入值呢
+
+
+
+git stash --> 切换到develop -->  git pull--rebase --> -->切换到自己分支 --> git rebase develop --> 解决冲突，解决完之后先不commit，执行git rebase --continue（保证当前git的状态不是rebasing），然后再add,commit
+
+
+
+git stash --> 切换到develop -->  git pull --> 切换到自己分支 --> git merge develop --> 解决冲突，解决完之后先不commit，执行git rebase --continue（保证当前git的状态不是rebasing），然后再add,commit
+
+
+
+
+
+
+
+
+
+
+
